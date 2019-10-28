@@ -1,0 +1,218 @@
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Ending.xnb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Title.xnb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Volon.exe
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Volon.pdb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\obj\x86\Debug\Volon.csprojResolveAssemblyReference.cache
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\obj\x86\Debug\Volon.csproj.CoreCompileInputs.cache
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\obj\x86\Debug\Volon.csproj.CopyComplete
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\obj\x86\Debug\Volon.exe
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\obj\x86\Debug\Volon.pdb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GravityBlock.xnb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\NormalBlock.xnb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Player.xnb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\SpecialBlock.xnb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\ThornBlock.xnb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM.wma
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\obj\x86\Debug\Volon.csprojResolveAssemblyReference.cache
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\obj\x86\Debug\Volon.csproj.CoreCompileInputs.cache
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\obj\x86\Debug\Volon.exe
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\obj\x86\Debug\Volon.pdb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Ending.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GravityBlock.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\NormalBlock.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Player.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\SpecialBlock.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\ThornBlock.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Title.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM.wma
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Volon.exe
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Volon.pdb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\obj\x86\Debug\Volon.csproj.CopyComplete
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GamePlay.xnb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Tutorial.xnb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GamePlaySmall.xnb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\number.xnb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM2.wma
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM2.xnb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\obj\x86\Debug\Volon.csprojResolveAssemblyReference.cache
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\obj\x86\Debug\Volon.csproj.CoreCompileInputs.cache
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\obj\x86\Debug\Volon.exe
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\obj\x86\Debug\Volon.pdb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Ending.xnb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GamePlay.xnb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GamePlaySmall.xnb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GravityBlock.xnb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\NormalBlock.xnb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\number.xnb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Player.xnb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\SpecialBlock.xnb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\ThornBlock.xnb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Title.xnb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Tutorial.xnb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM.wma
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM.xnb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM2.wma
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM2.xnb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Volon.exe
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\Volon.pdb
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\K018A1697\Desktop\gamejam10\Volonの軌跡\Volon3　ブロック始め\Volon\Volon\obj\x86\Debug\Volon.csproj.CopyComplete
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\background1.xnb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\cloud.xnb
+C:\Users\K018A1697\Desktop\gamejam10\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\cloud2.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\background1.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\cloud.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\cloud2.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GamePlay.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GamePlaySmall.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\number.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Tutorial.xnb
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM2.wma
+C:\Users\K018A1697\Desktop\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM2.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\background1.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\cloud.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\cloud2.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Ending.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GamePlay.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GamePlaySmall.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GravityBlock.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\NormalBlock.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\number.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Player.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\SpecialBlock.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\ThornBlock.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Title.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Tutorial.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM.wma
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM2.wma
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM2.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Volon.exe
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Volon.pdb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\obj\x86\Debug\Volon.csprojResolveAssemblyReference.cache
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\obj\x86\Debug\Volon.csproj.CoreCompileInputs.cache
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\obj\x86\Debug\Volon.csproj.CopyComplete
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\obj\x86\Debug\Volon.exe
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\obj\x86\Debug\Volon.pdb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Circle.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\background2.xnb
+C:\Users\K018A1697\Desktop\送るやーつ\bolon\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\backcolor.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\backcolor.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\background1.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\background2.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Circle.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\cloud.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\cloud2.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Ending.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GamePlay.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GamePlaySmall.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GravityBlock.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\NormalBlock.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\number.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Player.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\SpecialBlock.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\ThornBlock.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Title.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Tutorial.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM.wma
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM2.wma
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM2.xnb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Volon.exe
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\Volon.pdb
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\obj\x86\Debug\Volon.csprojAssemblyReference.cache
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\obj\x86\Debug\Volon.csproj.CoreCompileInputs.cache
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\obj\x86\Debug\Volon.csproj.CopyComplete
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\obj\x86\Debug\Volon.exe
+C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\obj\x86\Debug\Volon.pdb
