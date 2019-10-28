@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Sound/VoLoN BGM2.mp3</SourceFile>
-  <SourceTime>2019-10-11T01:14:22+09:00</SourceTime>
-  <DestFile>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/bin/Windows/Sound/VoLoN BGM2.xnb</DestFile>
-  <DestTime>2019-10-28T16:25:44.4340236+09:00</DestTime>
+  <SourceFile>C:/Users/K018A1697/Desktop/gamejam10/FinalFlash/Volon/Volon/Content/Sound/VoLoN BGM2.mp3</SourceFile>
+  <SourceTime>2019-10-28T19:02:43.7194677+09:00</SourceTime>
+  <DestFile>C:/Users/K018A1697/Desktop/gamejam10/FinalFlash/Volon/Volon/Content/bin/Windows/Sound/VoLoN BGM2.xnb</DestFile>
+  <DestTime>2019-10-28T23:17:06.4151638+09:00</DestTime>
   <Importer>Mp3Importer</Importer>
   <ImporterTime>2017-03-02T00:05:36+09:00</ImporterTime>
   <Processor>SongProcessor</Processor>
@@ -15,6 +15,6 @@
   <Dependencies />
   <BuildAsset />
   <BuildOutput>
-    <string>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/bin/Windows/Sound/VoLoN BGM2.wma</string>
+    <string>C:/Users/K018A1697/Desktop/gamejam10/FinalFlash/Volon/Volon/Content/bin/Windows/Sound/VoLoN BGM2.wma</string>
   </BuildOutput>
 </PipelineBuildEvent>

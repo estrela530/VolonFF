@@ -104,11 +104,28 @@ namespace Volon.Scene
             blockManager.Update(gameTime);
             #region チュートリアル
             interval++;
+            if (NowCurrentScene.TutorialState == 1)
+            {
+                if (interval >= 50)
+                {
+                    blockManager.Add(new NormalBlock(new Vector2(1280,400),igameMediator));
+                    interval = 0;
+                }
+            }
+            if (NowCurrentScene.TutorialState == 1)
+            {
+                if (interval >= 50)
+                {
+                    blockManager.Add(new GravityBlock(new Vector2(1280, 0), igameMediator));
+                    blockManager.Add(new NormalBlock(new Vector2(1280, 300), igameMediator));
+                    interval = 0;
+                }
+            }
             if (NowCurrentScene.TutorialState == 0)
             {
                 if (interval >= 50)
                 {
-                    blockManager.Add(new NormalBlock(new Vector2(1280,300),igameMediator));
+                    blockManager.Add(new ThornsBlock(new Vector2(1280, 300), igameMediator));
                     interval = 0;
                 }
             }

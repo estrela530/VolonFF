@@ -170,7 +170,7 @@ namespace Volon.Actor
                 }
                 else if (playerMoveSeconds >= 20)
                 {
-                    StaticInt.PlayerPower += 0.1f;
+                    StaticInt.PlayerPower += 0.07f;
                     position.Y += StaticInt.PlayerPower;
                 }
                 #endregion
