@@ -47,7 +47,7 @@ namespace Volon.Actor
             {
                 position.Y -= StaticInt.PlayerPower;
             }
-            //Move();
+            Move();
         }
         public override void Hit(Character other)
         {

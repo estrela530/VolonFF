@@ -16,8 +16,9 @@ namespace Volon.Actor
         private List<Character> blocks;
         private List<Character> players;
         private List<Character> addNewList;
-
+        int step = 100;
         private Renderer renderer;
+        private Player player;
 
         public BlockManager()
         {
@@ -94,7 +95,11 @@ namespace Volon.Actor
             }
             addNewList.Clear();
 
-            HitToBlocks();
+            
+            for (int i = 0; i < step; i++)
+            {
+                HitToBlocks();
+            }
 
             blocks.RemoveAll(c => c.IsDead() == true);//
         }
@@ -125,6 +130,7 @@ namespace Volon.Actor
                     {
                         continue;
                     }
+                    
                     if (player.IsCollision(block))
                     {
                         player.Hit(block);
@@ -138,7 +144,7 @@ namespace Volon.Actor
                 }
             }
         }
-       
+
         public void Draw(Renderer renderer)
         {
             foreach (Character c in blocks)
@@ -153,9 +159,9 @@ namespace Volon.Actor
         public bool PlayerIsDead()
         {
             bool d = false;
-            foreach(var p in players)
+            foreach (var p in players)
             {
-                 d=p.IsDead();
+                d = p.IsDead();
             }
             return d;
         }

@@ -216,3 +216,49 @@ C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\obj\x86\Debug\Volon.csproj.CoreCom
 C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\obj\x86\Debug\Volon.csproj.CopyComplete
 C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\obj\x86\Debug\Volon.exe
 C:\Users\K018A1704\Desktop\bolonY\Volon\Volon\obj\x86\Debug\Volon.pdb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\backcolor.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\background1.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\background2.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Circle.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\cloud.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\cloud2.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Ending.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GamePlay.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GamePlaySmall.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\GravityBlock.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\NormalBlock.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\number.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Player.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\SpecialBlock.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\ThornBlock.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Title.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Texture\Tutorial.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM.wma
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM2.wma
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Content\Sound\VoLoN BGM2.xnb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Volon.exe
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\Volon.pdb
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.dll
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.xml
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\VolonFF\Volon\Volon\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\VolonFF\Volon\Volon\obj\x86\Debug\Volon.csprojAssemblyReference.cache
+C:\VolonFF\Volon\Volon\obj\x86\Debug\Volon.csproj.CoreCompileInputs.cache
+C:\VolonFF\Volon\Volon\obj\x86\Debug\Volon.csproj.CopyComplete
+C:\VolonFF\Volon\Volon\obj\x86\Debug\Volon.exe
+C:\VolonFF\Volon\Volon\obj\x86\Debug\Volon.pdb

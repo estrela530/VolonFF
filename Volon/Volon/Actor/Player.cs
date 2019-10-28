@@ -25,8 +25,6 @@ namespace Volon.Actor
         private float splashMountainSeconds = 0;
         //float power = 0;
         float firstPower = -2.0f;
-        private float specialWidth;
-        private float specialHeight;
 
         //追加 かいと
         private Vector2 previousPos;
@@ -177,15 +175,15 @@ namespace Volon.Actor
             }
 
             #region　恥ずかしいパーティクル確認用
-            ////パーティクル確認用
-            //if (Input.GetKeyTrigger(Keys.F))
-            //{
-            //    IsDescentFlag = false;
-            //    playerMoveSeconds = 0;
-            //    splashMountainSeconds = 0;
-            //    StaticInt.PlayerPower = 0;
-            //    firstPower = -15.0f;
-            //}
+            //パーティクル確認用
+            if (Input.GetKeyTrigger(Keys.F))
+            {
+                IsDescentFlag = false;
+                playerMoveSeconds = 0;
+                splashMountainSeconds = 0;
+                StaticInt.PlayerPower = 0;
+                firstPower = -15.0f;
+            }
             #endregion
         }
 
@@ -196,7 +194,7 @@ namespace Volon.Actor
 
         public override void Hit(Character other)
         {
-            if (other is NormalBlock)
+            if (other is NormalBlock && IsDescentFlag == true)
             {
                 IsDescentFlag = false;
                 playerMoveSeconds = 0;
@@ -204,7 +202,7 @@ namespace Volon.Actor
                 StaticInt.PlayerPower = 0;
                 firstPower = -15.0f;
             }
-            else if (other is GravityBlock)
+            else if (other is GravityBlock && IsDescentFlag == true)
             {
                 IsDescentFlag = false;
                 playerMoveSeconds = 0;
@@ -212,7 +210,7 @@ namespace Volon.Actor
                 StaticInt.PlayerPower = 0;
                 firstPower = -5.0f;
             }
-            else if (other is SpecialBlock)
+            else if (other is SpecialBlock && IsDescentFlag == true)
             {
                 IsDescentFlag = false;
                 playerMoveSeconds = -50;
@@ -220,7 +218,7 @@ namespace Volon.Actor
                 StaticInt.PlayerPower = 0;
                 firstPower = -30.0f;
             }
-            else if (other is ThornsBlock)
+            else if (other is ThornsBlock && IsDescentFlag == true)
             {
                 IsDescentFlag = false;
                 playerMoveSeconds = 0;
@@ -232,7 +230,7 @@ namespace Volon.Actor
 
         public override void SpecialHit(Character other)
         {
-            if (other is NormalBlock)
+            if (other is NormalBlock && IsDescentFlag == true)
             {
                 IsDescentFlag = false;
                 playerMoveSeconds = -50;
@@ -240,7 +238,7 @@ namespace Volon.Actor
                 StaticInt.PlayerPower = 0;
                 firstPower = -15.0f;
             }
-            else if (other is ThornsBlock)
+            else if (other is ThornsBlock && IsDescentFlag == true)
             {
                 isDeadFlag = true;
             }

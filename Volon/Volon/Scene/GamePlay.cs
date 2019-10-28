@@ -33,6 +33,11 @@ namespace Volon.Scene
         private Random rnd = new Random();
         private List<int> numbers;
         private float backY, score,alpha;
+        private float currentScore = 0;
+        private float previousScore = 0;
+        private bool loop = false;
+        private int seconds;
+        private float currentSeconds = 0;
 
         public GamePlay()
         {
@@ -86,12 +91,12 @@ namespace Volon.Scene
                 numbers.Add(i);
             }
 
-            //blockManager.Add(new NormalBlock(new Vector2(500, 550), igameMediator));//テンプレート
-            //blockManager.Add(new NormalBlock(new Vector2(1050, 250), igameMediator));//佐々木
+            blockManager.Add(new NormalBlock(new Vector2(500, 550), igameMediator));//テンプレート
+            blockManager.Add(new NormalBlock(new Vector2(1050, 250), igameMediator));//佐々木
 
             //75クリティカル　150ノーマル
-            blockManager.Add(new NormalBlock(new Vector2(75, 550), igameMediator));//テンプレート
-            blockManager.Add(new NormalBlock(new Vector2(1050, 250), igameMediator));//佐々木
+            //blockManager.Add(new NormalBlock(new Vector2(75, 550), igameMediator));//テンプレート
+            //blockManager.Add(new NormalBlock(new Vector2(1050, 250), igameMediator));//佐々木
 
             back = 0;
             back2 = 0;
@@ -104,6 +109,11 @@ namespace Volon.Scene
             score = 0;
             backY = 0;
             alpha = 1.0f;
+            currentScore = 0;
+            previousScore = 0;
+            loop = false;
+            seconds = 0;
+            currentSeconds = 0;
         }
 
         public bool IsEnd()
@@ -130,13 +140,88 @@ namespace Volon.Scene
             player.Update(gameTime);
             if (StaticInt.PlayerPower<0&&blockManager.PlayerPos()==100)
             {
-                score-= StaticInt.PlayerPower/10;
+                score-= StaticInt.PlayerPower/5;
                 backY -= StaticInt.PlayerPower / 10;
-                if (score > 1200)
+                #region 背景ゴリラ
+                //if (score > 1000 && score <= 4000)
+                //{
+                //    alpha -= 0.001f;
+                //}
+                //else if (score > 4000 && score <= 7000)
+                //{
+                //    alpha += 0.001f;
+                //}
+                #endregion
+
+                #region 背景美しいScore
+                //if (score >= 1000 && score <1200)
+                //{
+                //    currentScore = score;
+                //    loop = true;
+                //}
+
+                //if (score - currentScore >= 2000)
+                //{
+                //    currentScore = score;
+                //    if (loop == true)
+                //    {
+                //        loop = false;
+                //    }
+                //    else if (loop == false)
+                //    {
+                //        loop = true;
+                //    }
+                //}
+
+                //if (loop == true)
+                //{
+                //    alpha -= 0.004f;
+                //}
+                //else if (loop == false)
+                //{
+                //    alpha += 0.004f;
+                //}
+                #endregion
+
+                #region 背景美しいseconds
+                seconds += 1;
+                if (seconds == 300)
                 {
-                    alpha -= 0.0015f;
+                    currentSeconds = seconds;
+                    loop = true;
                 }
+
+                if (seconds - currentSeconds == 300)
+                {
+                    currentSeconds = seconds;
+                    if (loop == true)
+                    {
+                        loop = false;
+                    }
+                    else if (loop == false)
+                    {
+                        loop = true;
+                    }
+                }
+
+                if (loop == true)
+                {
+                    //alpha -= 0.004f;                    
+                    alpha -= 0.01f;
+
+                }
+                else if (loop == false && seconds >= 300)
+                {
+                    //alpha += 0.004f;
+                    alpha += 0.01f;
+
+                }
+                #endregion
             }
+            //デバック用
+            if (Input.GetKeyState(Keys.B)) { score += 1; }
+            Console.WriteLine("alpha = "+alpha);
+            Console.WriteLine("loop = " + loop);
             blockManager.Update(gameTime);
             #region ランダム生成
             if (numbers.Count == 0)

@@ -4,24 +4,24 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/Ending.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/Title.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/GravityBlock.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/NormalBlock.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/Player.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/SpecialBlock.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Sound/VoLoN BGM.mp3</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/GamePlay.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/Tutorial.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/GamePlaySmall.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/number.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Sound/VoLoN BGM2.mp3</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/background1.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/cloud.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/cloud2.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/ThornBlock.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/Circle.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/background2.png</File>
-    <File>C:/Users/K018A1704/Desktop/bolonY/Volon/Volon/Content/Texture/backcolor.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/Ending.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/Title.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/GravityBlock.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/NormalBlock.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/Player.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/SpecialBlock.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Sound/VoLoN BGM.mp3</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/GamePlay.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/Tutorial.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/GamePlaySmall.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/number.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Sound/VoLoN BGM2.mp3</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/background1.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/cloud.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/cloud2.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/ThornBlock.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/Circle.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/background2.png</File>
+    <File>C:/VolonFF/Volon/Volon/Content/Texture/backcolor.png</File>
   </SourceFiles>
 </SourceFileCollection>
