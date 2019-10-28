@@ -45,6 +45,7 @@ namespace Volon.Actor
         {
             return isDeadFlag;
         }
+
         public float GetY()
         {
             return position.Y;
